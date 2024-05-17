@@ -133,6 +133,9 @@
       
           <Project>
           Web and mobile (HTML&CSS /Java Script/ C# /PHP / PostgreSQL / Phyton /Android Studio/ VS Code )
+
+         Professional Development:
+         Attended workshops and training sessions on advanced testing methodologies and tools.
         
         
   </div>
