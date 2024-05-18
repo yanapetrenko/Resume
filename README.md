@@ -7,8 +7,9 @@
     <section id="contact-info">
       <h2>Contact</h2>
       <ul>
+        <li><strong>Country:</strong> Ukraine</li>
         <li><strong>Email:</strong> yanina.steblyanko@gmail.com</li>
-        <li><strong>Телефон:</strong> +380973906113</li>
+        <li><strong>Phone:</strong> +380973906113</li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/">https://www.linkedin.com/in/yana-petrenko-84ab53192/</a></li>
         <!-- Додайте інші контактні дані за необхідності -->
       </ul>
@@ -21,7 +22,7 @@
     <section id="experience">
       <h2>Experience</h2>
        <h3>QA ENGINEER/Project Manager</h3>
-          <p><strong>Company:</strong> Parasol/ AsekuroPL </p>
+          <p><strong>Project and Company:</strong> Salamandra/ Parasol/ AsekuroPL - Polish</p>
           <p><strong>Duration:</strong> August 2022 - now </p>
           <p><strong>Experience:</strong> Web testing, mobile testing, and Microsoft Dynamics 365 (Manager of a development team)
             
